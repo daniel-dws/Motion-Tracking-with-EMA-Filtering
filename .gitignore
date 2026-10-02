@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# recorder output (analysis inputs live in data/)
+/tracking_comparison.avi
+/tracking_data.csv

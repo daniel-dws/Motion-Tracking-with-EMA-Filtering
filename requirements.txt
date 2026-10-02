@@ -1,0 +1,4 @@
+numpy
+pandas
+matplotlib
+# Pi-only (install via apt on Raspberry Pi OS): picamera2, opencv-python
